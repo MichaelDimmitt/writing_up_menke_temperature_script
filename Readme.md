@@ -17,3 +17,7 @@ gem install bundler
 bundle install
 
 bash mywatch.sh iStats
+
+## Uses mywatch script an executable
+1) takes 1 command line argument
+2) refreshes the terminal every second 

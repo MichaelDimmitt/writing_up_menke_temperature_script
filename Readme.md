@@ -6,3 +6,10 @@ The bash script will be a seperate executable that is implemented by the ruby pr
 1) write bash script
 2) write ruby integration and gemfile.
 3) other future thoughts.
+
+### Intstallation Instructions:
+
+gem install bundler
+bundle install
+
+bash mywatch.sh iStats
